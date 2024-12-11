@@ -1,0 +1,9 @@
+.dropdown {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.month {
+    font-weight: bold;
+}
